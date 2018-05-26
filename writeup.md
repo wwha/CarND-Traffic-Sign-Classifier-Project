@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./writeup_images/visualization.png "Visualization"
+[image1]: ./writeup_images/Visualization.png "Visualization"
 [image2]: ./writeup_images/lenet.png "LeNet Architecture"
 [image3]: ./writeup_images/RoadWork.png  "Traffic Sign 1"
 [image4]: ./writeup_images/SpeedLimit.png "Traffic Sign 2"
